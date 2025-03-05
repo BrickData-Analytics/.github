@@ -1,6 +1,6 @@
-# 🏗️ BrickData
+# 🏗️ DataBrick
 
-A **BrickData** é uma empresa especializada em análise de dados para o setor imobiliário e da construção civil. Nosso objetivo é fornecer soluções inteligentes que auxiliem construtoras e incorporadoras a tomar decisões estratégicas com base em dados concretos e relevantes.
+A **DataBrick** é uma empresa especializada em análise de dados para o setor imobiliário e da construção civil. Nosso objetivo é fornecer soluções inteligentes que auxiliem construtoras e incorporadoras a tomar decisões estratégicas com base em dados concretos e relevantes.
 
 ## 🌍 Nossa Missão
 
@@ -22,7 +22,7 @@ Capacitar empresas do setor imobiliário com insights baseados em dados, facilit
 
 ## 📞 Contato
 
-- 🌐 [Site Oficial](https://brickdata.com)  
-- 📧 contato@brickdata.com  
+- 🌐 [Site Oficial](https://www.databrick.com)  
+- 📧 contato@databrick.com  
 
-A **BrickData** transforma dados em decisões inteligentes para o futuro da construção! 🏢✨
+A **Databrick** transforma dados em decisões inteligentes para o futuro da construção! 🏢✨
